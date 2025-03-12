@@ -1,2 +1,3 @@
 # School-Python-Programmes
-School level Python &amp; Other pogrammes are in this repository.
+School level Python and Other pogrammes are in this repository.
+Author - Adrita Dey.
